@@ -6,7 +6,9 @@ this publish share super paper ,i thinks
 PyraNet：基于特征金字塔网络的人体姿态估计 
 
 代码地址：https://github.com/IcewineChen/pytorch-PyraNet
+
 代码地址：https://github.com/sunguanxiong/PyraAttention
+
 代码地址:https://github.com/princeton-vl/pose-hg-demo
 
 StereoNet实时边缘感知深度预处理的引导层次细化立体网络模型
@@ -16,8 +18,11 @@ StereoNet实时边缘感知深度预处理的引导层次细化立体网络模�
 边缘分割
 
 HED：Holistically-Nested Edge Detection
+
 代码地址：https://github.com/meteorshowers/hed-pytorch
+
 RFC：Richer Convolutional Features for Edge Detection 
+
 代码地址：https://github.com/meteorshowers/RCF-pytorch
 
 
